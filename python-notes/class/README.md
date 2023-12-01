@@ -70,3 +70,76 @@ print("y : ",p1.y)
 ![Alt text](image-4.png)
 
 کلاس برای پیدا کردن فاصله دو نقطه
+
+## [مقدار دهی اولیه شی (جلسه ۱۰)](https://sabzlearn.ir/lesson/25-26935/)
+
+```python
+# __new__ --> Create object (ساخت شی)
+# __init__ -->initialize object (مقداردهی شی)
+
+class Point:
+    # method
+    # atribute --> defult / non defult
+
+    #         نوع مقدار خروجی      نوع پارامتر ورودی
+    def __init__ (self , x:float , y:float ) -> None:
+        self.x = x
+        self.y = y
+        # atribute -> non defult |^|
+
+p1 = Point(10,12)
+
+print("x : ",p1.x)
+print("y : ",p1.y)
+```
+مقدار دهی اولیه بدون مقدار پیشفرض (هنگام صدا زدن مجبوریم مقدار بدهیم)
+<br><br>
+
+```python
+# __new__ --> Create object (ساخت شی)
+# __init__ -->initialize object (مقداردهی شی)
+
+class Point:
+    # method
+    # atribute --> defult / non defult
+    
+    #          نوع مقدار خروجی      نوع پارامتر ورودی
+    def __init__ (self , x:float = 0 , y:float = 0 ) -> None:
+        self.x = x
+        self.y = y
+        # atribute -> defult |^|
+
+p1 = Point()
+
+print("x : ",p1.x)
+print("y : ",p1.y)
+```
+مقدار دهی اولیه یا مقدار پیشفرض بوسیله نوشتن atribute
+<br><br>
+
+```python
+# __new__ --> Create object (ساخت شی)
+# __init__ -->initialize object (مقداردهی شی)
+
+class Point:
+    # method
+    # atribute --> defult / non defult
+    
+    #                   نوع مقدار خروجی      نوع پارامتر ورودی
+    def __init__ (self , x:float = 0 , y:float = 0 ) -> None:
+        self.move(x,y)
+        # atribute -> method |^|
+
+    def move(self, x:float ,y:float) -> None:
+        self.x = x
+        self.y = y
+
+p1 = Point()
+
+print("x : ",p1.x)
+print("y : ",p1.y)
+```
+مقدار دهی اولیه یا مقدار پیشفرض بوسیله متد دیگر
+<br><br>
+
+![Alt text](image-5.png)
