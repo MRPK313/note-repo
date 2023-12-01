@@ -1,10 +1,10 @@
 # فصل ۱۰ کلاس در پایتون
 
-## اشیاء در پایتون
+## اشیاء در پایتون (جلسه ۸)
 
 ![Alt text](image.png)
 
-## ساخت کلاس و اضافه کردن attribute و method به آن
+## ساخت کلاس و اضافه کردن attribute و method به آن (جلسه ۹)
 
 
 ```python
@@ -25,14 +25,14 @@ class Point:
 
 p1 = Point()
 
-#  اضافه کردن صفت  (attrebute)
+#  اضافه کردن صفت  (attribute)
 p1.x = 3
 p1.y = 5
 
 print(p1.x)
 print(p1.y)
 ```
-اضافه کردن صفت  (attrebute)
+اضافه کردن صفت  (attribute)
 <br/><br/><br>
 
 ```python
@@ -44,7 +44,7 @@ class Point:
 
 p1 = Point()
 
-#  اضافه کردن صفت  (attrebute)
+#  اضافه کردن صفت  (attribute)
 p1.x = 3
 p1.y = 5
 
