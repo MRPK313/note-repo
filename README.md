@@ -6,4 +6,4 @@ it just for my notes about all i read and exsercise
 1. Go to Intended directory
 2. scroll or open README.md in that directory
 
-. [Learn Class in Python](./python-notes/class/README.md)
+. [Learn Class in Python](./python/class/README.md)
