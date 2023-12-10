@@ -7,3 +7,5 @@ it just for my notes about all i read and exsercise
 2. scroll or open README.md in that directory
 
 . [Learn Class in Python](./python/class/README.md)
+
+. [Learn Security with tryhackme.com](./security/tryhackme.com/README.md)
