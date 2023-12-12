@@ -5,7 +5,7 @@ it just for my notes about all i read and exsercise
 
 ## Connection
 
-[Comment  Ideas or Problems PLZ :)](https://github.com/MRPK313/note-repo/discussions)
+[Comment  Ideas or Problems PLZ :)](https://github.com/MRPK313/note-repo/discussions/3)
 
 
 
