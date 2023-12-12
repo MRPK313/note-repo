@@ -8,7 +8,7 @@
 ## 1 [HTTP - Headers](./HTTP%20-%20Headers/README.md)✔️ 
 
 
-## 2 [HTTP - IP restriction bypass](./HTTP%20-%20IP%20restriction%20bypass/HTTP%20-%20IP%20restriction%20bypass.py)✔️ 
+## 2 [HTTP - IP restriction bypass](./HTTP%20-%20IP%20restriction%20bypass/README.md)✔️ 
 
 
 ## 3 [HTTP - POST](./HTTP%20-%20POST/HTTP%20-%20POST.py)✔️ 

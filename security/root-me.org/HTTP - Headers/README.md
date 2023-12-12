@@ -15,7 +15,7 @@
     <details>
     <summary>Spoiler warning</summary>
 
-    HeadersMayBeUseful
+        KEY : HeadersMayBeUseful
     
     </details>
 
