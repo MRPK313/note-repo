@@ -11,7 +11,7 @@
 ## 2 [HTTP - IP restriction bypass](./HTTP%20-%20IP%20restriction%20bypass/README.md)✔️ 
 
 
-## 3 [HTTP - POST](./HTTP%20-%20POST/HTTP%20-%20POST.py)✔️ 
+## 3 [HTTP - POST](./HTTP%20-%20POST/README.md)✔️ 
 
 
 ## 4 [JWT - Weak secret](./JWT%20-%20Weak%20secret/JWT%20-%20Weak%20secret.py)❌ 
