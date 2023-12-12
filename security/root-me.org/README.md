@@ -20,4 +20,7 @@
 ## 5. [HTTP - User-agent](./HTTP%20-%20User-agent/README.md)✔️ 
 
 
+## 6. [PHP - Command injection](./PHP%20-%20Command%20injection/README.md)✔️ 
+
+
 ##  [JWT - Weak secret](./JWT%20-%20Weak%20secret/JWT%20-%20Weak%20secret.py)❌ 
