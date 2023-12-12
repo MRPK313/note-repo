@@ -1,8 +1,9 @@
 # [HTTP - Headers link](https://www.root-me.org/en/Challenges/Web-Server/HTTP-Headers)
 
+## <span style="color:red;">DONT OPEN My Solution IF YOU DON'T SOLVE IT</span>
 
 <details>
-<summary>MY Solution</summary>
+<summary>My Solution</summary>
 
 
 1. python code for this challenge
