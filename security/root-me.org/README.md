@@ -2,7 +2,7 @@
 
 <br><br>
 
-# به هیچ وجه قبل از پاسخ به چالش ها به کد های این بخش مراجعه نکنید  `Do not refer to the slutions in this repo before answer the challenges`
+# به هیچ وجه قبل از پاسخ به چالش ها به کد های این بخش مراجعه نکنید  `Do not refer to the slutions in this repo before answer the challenges` 🙏🙏🙏
 
 
 ## 1 [HTTP - Headers](./HTTP%20-%20Headers/README.md)✔️ 
