@@ -9,7 +9,7 @@
 
 1. python code for this challenge
 
-    [python code](./HTTP%20-%20POST.py)
+[python code](./HTTP%20-%20POST.py)
 
 2. ❌ ❌ ❌ key ❌ ❌ ❌
 
