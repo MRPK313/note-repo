@@ -1,10 +1,28 @@
 # فصل ۱۰ کلاس در پایتون [سبزلرن](https://sabzlearn.ir/course/python/)
 
-## اشیاء در پایتون (جلسه ۸)
+
+
+<!-- <details>
+
+<summary><h1></h1></summary>
+
+</details> -->
+
+
+
+<details>
+<summary><h1>اشیاء در پایتون (جلسه ۸)</h1></summary>
 
 ![Alt text](image.png)
 
-## ساخت کلاس و اضافه کردن attribute و method به آن (جلسه ۹)
+</details>
+
+
+
+
+<details>
+
+<summary><h1>ساخت کلاس و اضافه کردن attribute و method به آن (جلسه ۹)</h1></summary>
 
 
 ```python
@@ -71,7 +89,15 @@ print("y : ",p1.y)
 
 کلاس برای پیدا کردن فاصله دو نقطه
 
-## [مقدار دهی اولیه شی (جلسه ۱۰)](https://sabzlearn.ir/lesson/25-26935/)
+</details>
+
+
+
+<details>
+
+<summary><h1>مقدار دهی اولیه شی (جلسه ۱۰)</h1></summary>
+
+
 
 ```python
 # __new__ --> Create object (ساخت شی)
@@ -143,3 +169,14 @@ print("y : ",p1.y)
 <br><br>
 
 ![Alt text](image-5.png)
+
+</details>
+
+
+<details>
+
+<summary><h1></h1></summary>
+
+
+
+</details>
