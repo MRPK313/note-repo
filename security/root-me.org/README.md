@@ -5,7 +5,7 @@
 # به هیچ وجه قبل از پاسخ به چالش ها به کد های این بخش مراجعه نکنید
 
 
-## 1 [HTTP - Headers](./HTTP%20-%20Headers/HTTP%20-%20Headers.py)✔️ 
+## 1 [HTTP - Headers](./HTTP%20-%20Headers/README.md)✔️ 
 
 
 ## 2 [HTTP - IP restriction bypass](./HTTP%20-%20IP%20restriction%20bypass/HTTP%20-%20IP%20restriction%20bypass.py)✔️ 
