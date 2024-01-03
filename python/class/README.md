@@ -175,8 +175,31 @@ print("y : ",p1.y)
 
 <details>
 
-<summary><h1></h1></summary>
+<summary><h1>(جلسه ۱۱) مستند سازی کلاس و ابزار doctest و mypy</h1></summary>
 
+comming soon...
+
+</details>
+
+
+<details>
+
+<summary><h1>
+    ماژول ها و کلاس ها (بخش اول) (جلسه ۱۲)
+</h1></summary>
+
+
+
+
+
+
+</details>
+
+
+
+<details>
+
+<summary><h1></h1></summary>
 
 
 </details>
