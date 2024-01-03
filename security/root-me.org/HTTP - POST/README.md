@@ -1,4 +1,4 @@
-# [HTTP - IP restriction bypass link](https://www.root-me.org/en/Challenges/Web-Server/HTTP-IP-restriction-bypass)
+# [HTTP - POST](https://www.root-me.org/en/Challenges/Web-Server/HTTP-POST)
 
 ## <span style="color:red;">DONT OPEN My Solution IF YOU DON'T SOLVE IT</span>
 
